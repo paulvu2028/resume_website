@@ -14,7 +14,7 @@ const introdata = {
     third: "I develop mobile apps",
   },
   description:
-    "I’m Paul junior software devloper, currently a final year student at Auckland University of Technology",
+    "I’m Paul junior software devloper, currently a final year student at Auckland University of Technology. Bachelor of Computer & Information Sciences",
   //change front page image here with url
   your_img_url: "",
 };
@@ -26,19 +26,19 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
+    jobtitle: "",
+    where: "",
     date: "2020",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
+    jobtitle: "",
+    where: "",
     date: "2019",
   },
   {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "",
+    where: "",
+    date: "2018",
   },
 ];
 
@@ -85,74 +85,74 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
 
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/550/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "",
     desctiption:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
@@ -170,7 +170,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
+  github: "https://github.com/paulvu2028",
   facebook: "https://facebook.com",
   linkedin: "https://linkedin.com",
   twitter: "https://twitter.com",
