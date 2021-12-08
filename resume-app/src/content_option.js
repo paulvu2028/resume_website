@@ -14,7 +14,7 @@ const introdata = {
     third: "I develop mobile apps",
   },
   description:
-    "I’m Paul junior software devloper, currently a final year student at Auckland University of Technology. Bachelor of Computer & Information Sciences",
+    "I’m Paul junior software devloper, currently a final year student at Auckland University of Technology studying for Bachelor of Computer & Information Sciences",
   //change front page image here with url
   your_img_url: "",
 };
@@ -22,37 +22,41 @@ const introdata = {
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "I am self-taught. I have completed over dozens of online courses. I have published half a dozen mobile apps and games. I have developed mutliple websites for small business. ",
+    "I am self-taught. I have completed over dozens of online courses. I have published half a dozen mobile apps and games. I have developed mutliple websites for small business.",
 };
 const worktimeline = [
   {
-    jobtitle: "",
-    where: "",
+    jobtitle: "Media Manager",
+    where: "The Bridge Beauty Salon",
+    date: "2021",
+  },
+  {
+    jobtitle: "Website Designer",
+    where: "TL Hair, Nails Beauty Salon",
     date: "2020",
   },
   {
-    jobtitle: "",
-    where: "",
-    date: "2019",
-  },
-  {
-    jobtitle: "",
-    where: "",
-    date: "2018",
+    jobtitle: "Delivery Person",
+    where: "Fisher & Pykel Healthcare",
+    date: "2018 to 2019",
   },
 ];
 
 const skills = [
   {
-    name: "Python",
+    name: "Javascript",
     value: 90,
   },
   {
-    name: "Djano",
+    name: "C#",
     value: 85,
   },
   {
-    name: "Javascript",
+    name: "C++",
+    value: 70,
+  },
+  {
+    name: "SQL",
     value: 80,
   },
   {
@@ -60,26 +64,25 @@ const skills = [
     value: 70,
   },
   {
-    name: "Jquery",
+    name: "Unity Engine",
     value: 85,
   },
 ];
 
 const services = [
   {
-    title: "UI & UX Design",
+    title: "Website UI & UX Design",
+    description:
+      "I have developed websites using purely html+css aswell as with react and MERN stack. I am capable of making websites with integrated databases and functionality.",
+  },
+  {
+    title: "Mobile App development",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
   },
   {
-    title: "Mobile Apps",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-  },
-  {
-    title: "Wordpress Design",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    title: "Game Design and programming",
+    description: "I have exprience using both unity and unreal engine.  ",
   },
 ];
 
@@ -169,10 +172,11 @@ const contactConfig = {
   YOUR_USER_ID: "user_id",
 };
 
+// change link to socials here
 const socialprofils = {
   github: "https://github.com/paulvu2028",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  facebook: "https://www.facebook.com/paul.vu.12720/",
+  linkedin: "https://www.linkedin.com/in/paul-vu-6399561bb/",
   twitter: "https://twitter.com",
 };
 export {
